@@ -8,8 +8,8 @@
 </p>
 
 ## About Me
-- 🔭 Pursuing **Bachelor of Computer Applications**
-- 🌱 Exploring **Python, docker, Kubernetes and DevOps**
+- 🔭 Pursuing **Btech**
+- 🌱 Exploring **Python, CCNA, and AWS **
 - 💡 Eager to collaborate on **innovative projects and hackathons**
 - ⚡ Fun fact: DevOps was inspired by Toyota's lean manufacturing principles, emphasizing collaboration and continuous improvement! 🚀
 
